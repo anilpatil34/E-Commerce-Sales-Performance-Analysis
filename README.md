@@ -112,5 +112,5 @@ pip install pandas numpy matplotlib seaborn
 
 Anil Patil  
 Python Developer | Data Analysis Enthusiast  
-LinkedIn: ((https://www.linkedin.com/in/anil-patil-b1a726241))  
+LinkedIn: ([https://www.linkedin.com/in/anil-patil-b1a726241])  
 GitHub: ([https://github.com/anilpatil34])
